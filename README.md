@@ -38,6 +38,9 @@ My ultimate goal is to become a skilled **Software Developer** and work on real-
 - To continuously improve coding and technical skills
 - To build efficient and meaningful software solutions
 
+##  leetcode
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/sarmini06?theme=light&font=Libre%20Bodoni&ext=heatmap)
+  
 ##  Connect with Me
 - GitHub: https://github.com/sarmini06
 
