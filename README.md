@@ -42,5 +42,5 @@ My ultimate goal is to become a skilled **Software Developer** and work on real-
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/sarmini06?theme=light&font=Libre%20Bodoni&ext=heatmap)
   
 ##  Connect with Me
-- GitHub: https://github.com/sarmini06
+- GitHub: https://github.com/sarmini01
 
