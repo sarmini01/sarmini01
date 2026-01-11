@@ -16,5 +16,7 @@
 - Build strong programming skills
 - Create real-world projects
 - Become a Software Developer
+##  leetcode
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/sarmini06?theme=light&font=Libre%20Bodoni&ext=heatmap)
 ##  Connect with Me
 - GitHub: https://github.com/sarmini01
