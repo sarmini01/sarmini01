@@ -1,5 +1,7 @@
 # Hi 👋 I'm Sarmini
-🎓 Student | 💻 Java Learner | 🚀 Aspiring Software Developer
+-  Student 
+-  Java Learner 
+-  Aspiring Software Developer
 ##  About Me
 -  Currently learning Java & Data Structures
 -  Interested in Backend Development
